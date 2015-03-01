@@ -1,0 +1,109 @@
+div.header{
+	width: 80%;
+	background-color:  #777;
+	text-align: center;
+	height: 80px;
+	border: 1px solid #777;
+	border-radius: 8px;
+	margin: auto;
+	margin-bottom: 10px;
+	
+}
+
+div.right_sidebar{
+	background-color: #f7fade;
+	float: right;
+	width: 20%;
+	height: 400px;
+	text-align: center;
+}
+
+
+div.history{
+	background-color: #f7fade;
+	float: left;
+	width: 80%;
+	height: 400px;
+	
+}
+
+div.left_sidebar{
+	background-color: #f7fade;
+	float: left;
+	width: 20%;
+	height: 350px;
+	text-align: center;
+}
+div.message{
+	background-color: #f7fade;
+	float: right;
+	width: 80%;
+	height: 350px;
+	
+}
+input.send{
+	float: right;
+}
+
+div.main{
+	margin: auto;
+	width:80%;
+}
+
+
+body{
+	background: #eee;
+}
+.textHist{
+	margin:20px;
+	width:97%;
+	height:80%;
+}
+
+.textInp{
+	margin:20px;
+	width:97%;
+	height:70%;
+}
+.send{
+
+}
+
+div.mesInp{
+	float:left;
+	height:350px;
+	width:60%;
+}
+
+div.footer{
+	width: 80%;
+	background-color:  #777;
+	text-align: center;
+	height: 80px;
+	border: 1px solid #777;
+	border-radius: 8px;
+	margin: auto;
+	margin-bottom: 10px;
+	margin-top:41%;
+	float:top;
+	padding:10px;
+}
+
+
+
+
+
+
+
+div.input{
+	width: 500px; 
+    padding: 50px; 
+    margin: auto; 
+    background: #f7fade; 
+	margin-top:10%;
+	border: 1px solid black;
+	border-radius: 8px;
+}
+.form-horizontal{
+	margin-left: 150px;
+}
